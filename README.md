@@ -6,9 +6,11 @@ Web developer since August 2023, graduated from the Wild Code School in Strasbou
 If you want to know more about me, follow me on LinkedIn : Cédric Hauviller
 
 ## My passions
-🏀 : Boston Celtics
-💻 : All except Mac 🥶
-🍕 : Pizza Merguez
+
+- 🏀 : Boston Celtics
+- 💻 : Tout sauf Mac 🥶
+- 🍕 : Pizza Merguez
+
 
 ## Follow Me
 [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cedrichauviller)
