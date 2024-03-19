@@ -8,7 +8,7 @@ If you want to know more about me, follow me on LinkedIn : Cédric Hauviller
 ## My passions
 
 - 🏀 : Boston Celtics
-- 💻 : Tout sauf Mac 🥶
+- 💻 : All except Mac 🥶
 - 🍕 : Pizza Merguez
 
 
