@@ -25,6 +25,8 @@ If you want to know more about me, follow me on LinkedIn : Cédric Hauviller
 - ![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 - ![TypeScript Logo](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![UIkit Logo](https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
+- ![Nuxt.js Logo](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+- ![Vue.js Logo](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ## 💾 Backend
 - ![PHP Logo](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -34,6 +36,7 @@ If you want to know more about me, follow me on LinkedIn : Cédric Hauviller
 - ![Doctrine Logo](https://img.shields.io/badge/Doctrine-326CE5?style=for-the-badge&logo=doctrine&logoColor=white)
 - ![Composer Logo](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 - ![Node.js Logo](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ## 🛠️ Tools & Utilities
 - ![Figma Logo](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
